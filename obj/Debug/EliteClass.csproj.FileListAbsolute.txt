@@ -1,0 +1,10 @@
+C:\Users\latel\OneDrive\Documents\GITHUB\EliteClass\EliteClass\bin\Debug\EliteClass.exe.config
+C:\Users\latel\OneDrive\Documents\GITHUB\EliteClass\EliteClass\bin\Debug\EliteClass.exe
+C:\Users\latel\OneDrive\Documents\GITHUB\EliteClass\EliteClass\bin\Debug\EliteClass.pdb
+C:\Users\latel\OneDrive\Documents\GITHUB\EliteClass\EliteClass\obj\Debug\EliteClass.csproj.AssemblyReference.cache
+C:\Users\latel\OneDrive\Documents\GITHUB\EliteClass\EliteClass\obj\Debug\EliteClass.Form1.resources
+C:\Users\latel\OneDrive\Documents\GITHUB\EliteClass\EliteClass\obj\Debug\EliteClass.Properties.Resources.resources
+C:\Users\latel\OneDrive\Documents\GITHUB\EliteClass\EliteClass\obj\Debug\EliteClass.csproj.GenerateResource.cache
+C:\Users\latel\OneDrive\Documents\GITHUB\EliteClass\EliteClass\obj\Debug\EliteClass.csproj.CoreCompileInputs.cache
+C:\Users\latel\OneDrive\Documents\GITHUB\EliteClass\EliteClass\obj\Debug\EliteClass.exe
+C:\Users\latel\OneDrive\Documents\GITHUB\EliteClass\EliteClass\obj\Debug\EliteClass.pdb
